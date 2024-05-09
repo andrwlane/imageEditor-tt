@@ -11,6 +11,30 @@
 		555B2F2E2BED30A4009EF5DE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F2D2BED30A4009EF5DE /* ContentView.swift */; };
 		555B2F302BED30A6009EF5DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 555B2F2F2BED30A6009EF5DE /* Assets.xcassets */; };
 		555B2F332BED30A6009EF5DE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 555B2F322BED30A6009EF5DE /* Preview Assets.xcassets */; };
+		555B2F3A2BED311A009EF5DE /* PermissionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F392BED311A009EF5DE /* PermissionsView.swift */; };
+		555B2F412BED31A4009EF5DE /* Pacifico_OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 555B2F3D2BED31A4009EF5DE /* Pacifico_OFL.txt */; };
+		555B2F422BED31A4009EF5DE /* Montserrat_OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 555B2F3E2BED31A4009EF5DE /* Montserrat_OFL.txt */; };
+		555B2F432BED31A4009EF5DE /* Pacifico.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 555B2F3F2BED31A4009EF5DE /* Pacifico.ttf */; };
+		555B2F442BED31A4009EF5DE /* Montserrat.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 555B2F402BED31A4009EF5DE /* Montserrat.ttf */; };
+		555B2F482BED3233009EF5DE /* ShapesClassification.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F472BED3233009EF5DE /* ShapesClassification.mlpackage */; };
+		555B2F4D2BED32BB009EF5DE /* CircleIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F4C2BED32BB009EF5DE /* CircleIcon.swift */; };
+		555B2F4F2BED32D5009EF5DE /* FontSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F4E2BED32D5009EF5DE /* FontSlider.swift */; };
+		555B2F512BED32EC009EF5DE /* TextLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F502BED32EC009EF5DE /* TextLabel.swift */; };
+		555B2F542BED3314009EF5DE /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F532BED3313009EF5DE /* ImagePicker.swift */; };
+		555B2F562BED333D009EF5DE /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F552BED333D009EF5DE /* ImageView.swift */; };
+		555B2F592BED3374009EF5DE /* Canvas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F582BED3374009EF5DE /* Canvas.swift */; };
+		555B2F5B2BED3496009EF5DE /* MLCanvas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F5A2BED3496009EF5DE /* MLCanvas.swift */; };
+		555B2F5D2BED34CE009EF5DE /* CanvasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F5C2BED34CD009EF5DE /* CanvasViewController.swift */; };
+		555B2F5F2BED34EA009EF5DE /* CanvasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F5E2BED34EA009EF5DE /* CanvasView.swift */; };
+		555B2F622BED3546009EF5DE /* MediaProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F612BED3546009EF5DE /* MediaProcessor.swift */; };
+		555B2F652BED3579009EF5DE /* UIImage+ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F642BED3579009EF5DE /* UIImage+ext.swift */; };
+		555B2F672BED35A8009EF5DE /* UIImageView+ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F662BED35A8009EF5DE /* UIImageView+ext.swift */; };
+		555B2F692BED35C6009EF5DE /* String+ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F682BED35C6009EF5DE /* String+ext.swift */; };
+		555B2F6B2BED35E0009EF5DE /* PKDrawing+ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F6A2BED35E0009EF5DE /* PKDrawing+ext.swift */; };
+		555B2F6D2BED35F9009EF5DE /* PKCanvasView+ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F6C2BED35F9009EF5DE /* PKCanvasView+ext.swift */; };
+		555B2F6F2BED3614009EF5DE /* View+ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F6E2BED3614009EF5DE /* View+ext.swift */; };
+		555B2F712BED3622009EF5DE /* UIResponder+ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F702BED3622009EF5DE /* UIResponder+ext.swift */; };
+		555B2F792BED37DB009EF5DE /* EditingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555B2F782BED37DB009EF5DE /* EditingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +43,31 @@
 		555B2F2D2BED30A4009EF5DE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		555B2F2F2BED30A6009EF5DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		555B2F322BED30A6009EF5DE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		555B2F392BED311A009EF5DE /* PermissionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermissionsView.swift; sourceTree = "<group>"; };
+		555B2F3D2BED31A4009EF5DE /* Pacifico_OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Pacifico_OFL.txt; sourceTree = "<group>"; };
+		555B2F3E2BED31A4009EF5DE /* Montserrat_OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Montserrat_OFL.txt; sourceTree = "<group>"; };
+		555B2F3F2BED31A4009EF5DE /* Pacifico.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Pacifico.ttf; sourceTree = "<group>"; };
+		555B2F402BED31A4009EF5DE /* Montserrat.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Montserrat.ttf; sourceTree = "<group>"; };
+		555B2F452BED31CD009EF5DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		555B2F472BED3233009EF5DE /* ShapesClassification.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = ShapesClassification.mlpackage; sourceTree = "<group>"; };
+		555B2F4C2BED32BB009EF5DE /* CircleIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleIcon.swift; sourceTree = "<group>"; };
+		555B2F4E2BED32D5009EF5DE /* FontSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontSlider.swift; sourceTree = "<group>"; };
+		555B2F502BED32EC009EF5DE /* TextLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextLabel.swift; sourceTree = "<group>"; };
+		555B2F532BED3313009EF5DE /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		555B2F552BED333D009EF5DE /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
+		555B2F582BED3374009EF5DE /* Canvas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Canvas.swift; sourceTree = "<group>"; };
+		555B2F5A2BED3496009EF5DE /* MLCanvas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MLCanvas.swift; sourceTree = "<group>"; };
+		555B2F5C2BED34CD009EF5DE /* CanvasViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanvasViewController.swift; sourceTree = "<group>"; };
+		555B2F5E2BED34EA009EF5DE /* CanvasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanvasView.swift; sourceTree = "<group>"; };
+		555B2F612BED3546009EF5DE /* MediaProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaProcessor.swift; sourceTree = "<group>"; };
+		555B2F642BED3579009EF5DE /* UIImage+ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+ext.swift"; sourceTree = "<group>"; };
+		555B2F662BED35A8009EF5DE /* UIImageView+ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView+ext.swift"; sourceTree = "<group>"; };
+		555B2F682BED35C6009EF5DE /* String+ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+ext.swift"; sourceTree = "<group>"; };
+		555B2F6A2BED35E0009EF5DE /* PKDrawing+ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PKDrawing+ext.swift"; sourceTree = "<group>"; };
+		555B2F6C2BED35F9009EF5DE /* PKCanvasView+ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PKCanvasView+ext.swift"; sourceTree = "<group>"; };
+		555B2F6E2BED3614009EF5DE /* View+ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+ext.swift"; sourceTree = "<group>"; };
+		555B2F702BED3622009EF5DE /* UIResponder+ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIResponder+ext.swift"; sourceTree = "<group>"; };
+		555B2F782BED37DB009EF5DE /* EditingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +100,13 @@
 		555B2F2A2BED30A4009EF5DE /* ImageEditor */ = {
 			isa = PBXGroup;
 			children = (
+				555B2F452BED31CD009EF5DE /* Info.plist */,
 				555B2F2B2BED30A4009EF5DE /* ImageEditorApp.swift */,
 				555B2F2D2BED30A4009EF5DE /* ContentView.swift */,
+				555B2F3B2BED318A009EF5DE /* Resources */,
+				555B2F492BED328C009EF5DE /* Core */,
+				555B2F752BED3745009EF5DE /* Permissions */,
+				555B2F772BED3776009EF5DE /* Editing */,
 				555B2F2F2BED30A6009EF5DE /* Assets.xcassets */,
 				555B2F312BED30A6009EF5DE /* Preview Content */,
 			);
@@ -65,6 +119,122 @@
 				555B2F322BED30A6009EF5DE /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		555B2F3B2BED318A009EF5DE /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				555B2F462BED321F009EF5DE /* Canvas */,
+				555B2F3C2BED3191009EF5DE /* Fonts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		555B2F3C2BED3191009EF5DE /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				555B2F3E2BED31A4009EF5DE /* Montserrat_OFL.txt */,
+				555B2F402BED31A4009EF5DE /* Montserrat.ttf */,
+				555B2F3D2BED31A4009EF5DE /* Pacifico_OFL.txt */,
+				555B2F3F2BED31A4009EF5DE /* Pacifico.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		555B2F462BED321F009EF5DE /* Canvas */ = {
+			isa = PBXGroup;
+			children = (
+				555B2F472BED3233009EF5DE /* ShapesClassification.mlpackage */,
+			);
+			path = Canvas;
+			sourceTree = "<group>";
+		};
+		555B2F492BED328C009EF5DE /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				555B2F4B2BED32A3009EF5DE /* UI */,
+				555B2F4A2BED329A009EF5DE /* Helpers */,
+				555B2F572BED335A009EF5DE /* Canvas */,
+				555B2F602BED3519009EF5DE /* Utils */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		555B2F4A2BED329A009EF5DE /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				555B2F632BED356B009EF5DE /* Extensions */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		555B2F4B2BED32A3009EF5DE /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				555B2F522BED32F0009EF5DE /* UIKit */,
+				555B2F4C2BED32BB009EF5DE /* CircleIcon.swift */,
+				555B2F4E2BED32D5009EF5DE /* FontSlider.swift */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		555B2F522BED32F0009EF5DE /* UIKit */ = {
+			isa = PBXGroup;
+			children = (
+				555B2F502BED32EC009EF5DE /* TextLabel.swift */,
+				555B2F532BED3313009EF5DE /* ImagePicker.swift */,
+				555B2F552BED333D009EF5DE /* ImageView.swift */,
+			);
+			path = UIKit;
+			sourceTree = "<group>";
+		};
+		555B2F572BED335A009EF5DE /* Canvas */ = {
+			isa = PBXGroup;
+			children = (
+				555B2F582BED3374009EF5DE /* Canvas.swift */,
+				555B2F5A2BED3496009EF5DE /* MLCanvas.swift */,
+				555B2F5C2BED34CD009EF5DE /* CanvasViewController.swift */,
+				555B2F5E2BED34EA009EF5DE /* CanvasView.swift */,
+			);
+			path = Canvas;
+			sourceTree = "<group>";
+		};
+		555B2F602BED3519009EF5DE /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				555B2F612BED3546009EF5DE /* MediaProcessor.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		555B2F632BED356B009EF5DE /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				555B2F642BED3579009EF5DE /* UIImage+ext.swift */,
+				555B2F662BED35A8009EF5DE /* UIImageView+ext.swift */,
+				555B2F682BED35C6009EF5DE /* String+ext.swift */,
+				555B2F6A2BED35E0009EF5DE /* PKDrawing+ext.swift */,
+				555B2F6C2BED35F9009EF5DE /* PKCanvasView+ext.swift */,
+				555B2F6E2BED3614009EF5DE /* View+ext.swift */,
+				555B2F702BED3622009EF5DE /* UIResponder+ext.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		555B2F752BED3745009EF5DE /* Permissions */ = {
+			isa = PBXGroup;
+			children = (
+				555B2F392BED311A009EF5DE /* PermissionsView.swift */,
+			);
+			path = Permissions;
+			sourceTree = "<group>";
+		};
+		555B2F772BED3776009EF5DE /* Editing */ = {
+			isa = PBXGroup;
+			children = (
+				555B2F782BED37DB009EF5DE /* EditingView.swift */,
+			);
+			path = Editing;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,7 +296,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				555B2F332BED30A6009EF5DE /* Preview Assets.xcassets in Resources */,
+				555B2F432BED31A4009EF5DE /* Pacifico.ttf in Resources */,
+				555B2F412BED31A4009EF5DE /* Pacifico_OFL.txt in Resources */,
 				555B2F302BED30A6009EF5DE /* Assets.xcassets in Resources */,
+				555B2F422BED31A4009EF5DE /* Montserrat_OFL.txt in Resources */,
+				555B2F442BED31A4009EF5DE /* Montserrat.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +311,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				555B2F512BED32EC009EF5DE /* TextLabel.swift in Sources */,
+				555B2F6B2BED35E0009EF5DE /* PKDrawing+ext.swift in Sources */,
+				555B2F4D2BED32BB009EF5DE /* CircleIcon.swift in Sources */,
+				555B2F5F2BED34EA009EF5DE /* CanvasView.swift in Sources */,
+				555B2F4F2BED32D5009EF5DE /* FontSlider.swift in Sources */,
+				555B2F592BED3374009EF5DE /* Canvas.swift in Sources */,
+				555B2F5D2BED34CE009EF5DE /* CanvasViewController.swift in Sources */,
 				555B2F2E2BED30A4009EF5DE /* ContentView.swift in Sources */,
+				555B2F622BED3546009EF5DE /* MediaProcessor.swift in Sources */,
+				555B2F712BED3622009EF5DE /* UIResponder+ext.swift in Sources */,
+				555B2F672BED35A8009EF5DE /* UIImageView+ext.swift in Sources */,
+				555B2F482BED3233009EF5DE /* ShapesClassification.mlpackage in Sources */,
+				555B2F542BED3314009EF5DE /* ImagePicker.swift in Sources */,
+				555B2F6F2BED3614009EF5DE /* View+ext.swift in Sources */,
+				555B2F562BED333D009EF5DE /* ImageView.swift in Sources */,
+				555B2F3A2BED311A009EF5DE /* PermissionsView.swift in Sources */,
+				555B2F6D2BED35F9009EF5DE /* PKCanvasView+ext.swift in Sources */,
+				555B2F792BED37DB009EF5DE /* EditingView.swift in Sources */,
+				555B2F692BED35C6009EF5DE /* String+ext.swift in Sources */,
+				555B2F652BED3579009EF5DE /* UIImage+ext.swift in Sources */,
+				555B2F5B2BED3496009EF5DE /* MLCanvas.swift in Sources */,
 				555B2F2C2BED30A4009EF5DE /* ImageEditorApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -275,11 +469,14 @@
 				DEVELOPMENT_TEAM = DSCAQDF936;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ImageEditor/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Image Editor access device media";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,11 +501,14 @@
 				DEVELOPMENT_TEAM = DSCAQDF936;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ImageEditor/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Image Editor access device media";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
